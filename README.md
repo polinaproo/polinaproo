@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет, пусечки 👋
 
 <!--
 **polinaproo/polinaproo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
